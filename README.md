@@ -171,4 +171,4 @@ The Android app expects the following API endpoints (see `backend/api_spec.yaml`
 
 ## License
 
-MIT License - see LICENSE file for details
+MIT License - see LICENSE file for details# Updated: Sun Aug  9 13:49:58 UTC 2026
