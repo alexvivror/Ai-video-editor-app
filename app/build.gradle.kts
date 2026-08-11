@@ -118,7 +118,7 @@ dependencies {
     implementation("com.airbnb.android:lottie:6.4.0")
 
     // Accompanist for system UI controller
-    implementation("com.google.accompanist:accompanist-systemuicontroller:0.34.0-alpha")
+    implementation("com.google.accompanist:accompanist-systemuicontroller:0.34.0")
 
     // Testing
     testImplementation("junit:junit:4.13.2")
